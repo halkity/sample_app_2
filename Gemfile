@@ -28,7 +28,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 
 gem 'bootstrap-sass', '3.3.7'
 # Use mysql as the database for Active Record
-gem 'puma',         '3.9.1'
+gem 'puma',         '4.3.8'
 # Use SCSS for stylesheets
 gem 'sass-rails',   '5.0.6'
 # Use Uglifier as compressor for JavaScript assets
